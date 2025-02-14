@@ -1,6 +1,11 @@
 # Changelog
 
-## 1.1.0 - 01/??/2025
+## 1.2.0 - 02/14/2025
+
+### Added
+- Polish translation by Lionheart.
+
+## 1.1.0 - 01/31/2025
 
 ### Added
 - Support for V12.
